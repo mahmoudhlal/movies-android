@@ -1,0 +1,1 @@
+/Users/mahmoudhlal/AndroidStudioProjects/MoviesApplication/buildSrc/build/classes/kotlin/main/AppConfig.class:/Users/mahmoudhlal/AndroidStudioProjects/MoviesApplication/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/mahmoudhlal/AndroidStudioProjects/MoviesApplication/buildSrc/build/classes/kotlin/main/Versions.class
